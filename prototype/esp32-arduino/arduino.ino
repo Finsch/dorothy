@@ -4,8 +4,8 @@
 // good.
 
 // Configuration WiFi
-const char* ssid = "Nightcrawl";
-const char* password = "charcoal";
+const char* ssid = "Ni*****wl"; // Nom du réseau WiFi
+const char* password = "******"; // Mot de passe du réseau WiFi
 
 // Configuration MQTT
 const char* mqtt_server = "172.20.10.12"; // IP_DE_LA_RPI
