@@ -3,6 +3,8 @@ The goal of this project is to design and implement a system to **control and mo
 
 ![alt text](attachements/project.jpg)
 
-![alt text](attachements/ioc-projet.jpg)
 
+---
+Here is the web interface. 
 ![alt text](attachements/web_interface.png)
+
