@@ -11,4 +11,4 @@ Here is the web interface.
 ![alt text](attachements/web_interface.png)
 
 
-Don't be shy, check out the 'journal de bord'. 
+Check out the 'journal de bord' for more details on the project.
